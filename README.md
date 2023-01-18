@@ -41,11 +41,11 @@ print("Get request recieved")
 
 server_address = ('',80)
 httpd = HTTPServer(server_address, myserver)
-httpd.serve_forever()
+httpd.serve_forever
 ```
 
 ## OUTPUT:
-![](./d.png)
+![](./simplewebserver/vd.png)
 
 ## RESULT:
 The program for implementing Simple Web Server has been completed successfully
