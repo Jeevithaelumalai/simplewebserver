@@ -45,7 +45,7 @@ httpd.serve_forever
 ```
 
 ## OUTPUT:
-![](./simplewebserver/vd.png)
+![](./vd.png)
 
 ## RESULT:
 The program for implementing Simple Web Server has been completed successfully
